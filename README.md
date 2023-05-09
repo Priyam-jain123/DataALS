@@ -1,2 +1,2 @@
 # DataALS
-This AI powered ChatBot can do data analysis and visualization when provided with data
+This AI powered ChatBot currently able to have a conversation with speech recognition and talk back.
